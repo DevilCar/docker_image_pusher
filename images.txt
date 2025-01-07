@@ -1,4 +1,4 @@
-prom/prom/prometheus
+/prom/prometheus
 #nginx
 #支持私库
 #mysql:8.1.0
